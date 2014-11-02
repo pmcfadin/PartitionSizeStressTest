@@ -8,6 +8,3 @@ create table wide1 (
     random_data int,
     PRIMARY KEY(partition_name, partition_cell_number)
 );
-
-
-// Turn key cache off
